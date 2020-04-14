@@ -3,6 +3,8 @@
 Create image mosaic with small patch images using [Kuzushiji-MNIST](https://www.kaggle.com/anokas/kuzushiji) and [CiFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.  
 Inspired by [this kernel](https://www.kaggle.com/anokas/kuzushiji-mnist-cat).
 
+![iu_result.png](/result.PNG)
+
 ### Color Image
 
 Image quantization using KMeans clustering
